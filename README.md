@@ -15,8 +15,8 @@
 
 
 Окружение:
-OS Version: Mac OS High Sierra
-Java version: Openjdk version "11.0.6" 2020-01-14
+Mac OS version 10.13.16,
+Java version 11.07
 
 
 ## Инструкция по запуску приложения и тестов##
